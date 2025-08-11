@@ -3,7 +3,7 @@ This ATS Resume Checker is a lightweight, client-side tool built with React and 
 
 Built using Lovable AI (free tier), this project demonstrates how to quickly create a polished, interactive resume analyzer without any backend — parsing resumes, scoring them based on keywords and formatting, and providing clear feedback to improve your chances in job applications.
 
-"https://preview--ats-insight-forge.lovable.app/"
+"https://preview--ats-resume-checker-free.lovable.app/"
 
 Features
 Upload PDF or DOCX resumes with robust text extraction
