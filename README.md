@@ -1,21 +1,20 @@
-# ATS-Checker
-This ATS Resume Checker is a lightweight, client-side tool built with React and TypeScript that analyzes PDF and DOCX resumes for ATS compatibility.
+# ATS Resume Checker – Open-Source Resume Optimization Platform
+The ATS Resume Checker is a free, open-source web application designed to help job seekers optimize their resumes for Applicant Tracking Systems (ATS). Built with modern web technologies, this platform offers a user-friendly interface and powerful tools to ensure your resume passes through ATS filters and reaches hiring managers.
 
-Built using Lovable AI (free tier), this project demonstrates how to quickly create a polished, interactive resume analyzer without any backend — parsing resumes, scoring them based on keywords and formatting, and providing clear feedback to improve your chances in job applications.
+https://preview--ats-resume-checker-free.lovable.app/
 
-"https://preview--ats-resume-checker-free.lovable.app/"
+Key Features
+ATS Compatibility Scoring: Analyze your resume's compatibility with ATS by evaluating formatting, keyword usage, and structure.
+Job Description Matching: Compare your resume against a specific job description to identify missing keywords and tailor your resume accordingly.
+Change Tracking: Visualize edits made to your resume with color-coded highlights, allowing you to track improvements over time.
+Export Options: Download your optimized resume in various formats, including PDF, DOCX, and TXT.
+Responsive Design: Enjoy a seamless experience across devices with a mobile-friendly interface.
+Privacy-Focused: All data is processed locally in your browser, ensuring your information remains private.
 
-Features
-Upload PDF or DOCX resumes with robust text extraction
-Optional job description or role input for tailored scoring
-Animated ATS score display with matched/missing keyword highlights
-Modern, responsive UI with sunrise gradient and glass-card style
-Fully centered layout for focused user experience
 
-Tech Stack
-React + TypeScript
-Tailwind CSS
-pdfjs-dist and mammoth libraries
-Developed with the assistance of Lovable AI
-
-This repository showcases the power of AI-assisted development to create useful tools quickly and efficiently.
+Getting Started
+Visit https://preview--ats-resume-checker-free.lovable.app/ to access the application.
+Upload your resume in PDF, DOCX, or TXT format.
+Input a job description to compare and identify areas for improvement.
+Review the ATS compatibility score and suggested changes.
+Download your optimized resume and apply with confidence.
